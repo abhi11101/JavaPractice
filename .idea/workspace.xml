@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e1abc1b-653c-41ac-a65f-13a86c525b22" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abhi/Chapter1_10/Chapter3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abhi/Chapter1_10/Chapter4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abhi/Chapter1_10/Chapter5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abhi/Chapter1_10/Chapter6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abhi/Chapter1_10/HelloWorld.java" afterDir="false" />
+    <list default="true" id="4e1abc1b-653c-41ac-a65f-13a86c525b22" name="Changes" comment="7/8/22">
+      <change afterPath="$PROJECT_DIR$/src/com/abhi/Chapter1_10/Chapter7/Chapter7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abhi/Chapter1_10/Chapter7/Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abhi/Chapter1_10/Chapter7.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -44,13 +42,18 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Chapter6">
-    <configuration name="Chapter3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.abhi.Chapter1_10.Chapter3" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.abhi.Chapter1_10.Chapter7" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Recursion">
+    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abhi.Chapter1_10.Chapter7.Recursion" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.abhi.Chapter1_10.*" />
+          <option name="PATTERN" value="com.abhi.Chapter1_10.Chapter7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapter4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="com.abhi.Chapter1_10.Chapter4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.abhi.Chapter1_10.Chapter4" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.abhi.Chapter1_10.*" />
+          <option name="PATTERN" value="com.abhi.Chapter1_10.Chapter7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapter5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="com.abhi.Chapter1_10.Chapter5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.abhi.Chapter1_10.Chapter5" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.abhi.Chapter1_10.*" />
+          <option name="PATTERN" value="com.abhi.Chapter1_10.Chapter7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Chapter6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="com.abhi.Chapter1_10.Chapter6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.abhi.Chapter1_10.Chapter6" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.abhi.Chapter1_10.*" />
+          <option name="PATTERN" value="com.abhi.Chapter1_10.Chapter7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.abhi.Chapter1_10.HelloWorld" />
+    <configuration name="com.abhi.Chapter1_10.Chapter7.Chapter7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abhi.Chapter1_10.Chapter7.Chapter7" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.abhi.Chapter1_10.*" />
+          <option name="PATTERN" value="com.abhi.Chapter1_10.Chapter7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Chapter6" />
-        <item itemvalue="Application.Chapter5" />
-        <item itemvalue="Application.Chapter4" />
-        <item itemvalue="Application.Chapter3" />
-        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.Recursion" />
+        <item itemvalue="Application.com.abhi.Chapter1_10.Chapter7.Chapter7" />
+        <item itemvalue="Application.com.abhi.Chapter1_10.Chapter6" />
+        <item itemvalue="Application.com.abhi.Chapter1_10.Chapter5" />
+        <item itemvalue="Application.com.abhi.Chapter1_10.Chapter4" />
       </list>
     </recent_temporary>
   </component>
@@ -129,6 +132,14 @@
       <option name="presentableId" value="Default" />
       <updated>1659543041713</updated>
     </task>
+    <task id="LOCAL-00001" summary="7/8/22">
+      <created>1659849119288</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659849119288</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,10 +147,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="7/8/22" />
+    <option name="LAST_COMMIT_MESSAGE" value="7/8/22" />
   </component>
 </project>
