@@ -15,8 +15,10 @@ class Box{
         l=1;
         b=2;
         h=3;
+        System.out.println("Box Default Const");
     }
     Box(int l,int b,int h){
+        System.out.println("Box Parameterized Const");
         this.l =l;
         this.b =b;
         this.h =h;
@@ -29,7 +31,7 @@ class Box{
 class BoxWeight extends Box{
     int weight;
     BoxWeight(){
-        super(9,8,7);
+        super();
     }
     int area(){
         return l*b;

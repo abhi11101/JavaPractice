@@ -13,8 +13,8 @@ abstract class Figure{
     int dim1;
     int dim2;
     Figure(int dim1, int dim2){
-        this.dim1 =dim1;
-        this.dim2 =dim2;
+        this.dim1 =dim1+1;
+        this.dim2 =dim2+1;
     }
     abstract int area();
 }

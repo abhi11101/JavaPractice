@@ -14,7 +14,7 @@ public class ExceptionTest {
     }
     static void display() throws ArithmeticException,ArrayIndexOutOfBoundsException{
         int a =10;
-        int b=10;
+        int b=0;
         int c =a/b;
         int arr[] = {1,2};
         System.out.println("C " + c);
