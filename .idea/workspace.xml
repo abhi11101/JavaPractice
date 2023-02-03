@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e1abc1b-653c-41ac-a65f-13a86c525b22" name="Changes" comment="Revision">
-      <change afterPath="$PROJECT_DIR$/src/com/abhi/Chapter11_20/Chapter19/ListClass/ArrayListClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abhi/Chapter11_20/Chapter19/ListClass/LinkedListClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="4e1abc1b-653c-41ac-a65f-13a86c525b22" name="Changes" comment="2/2/23">
+      <change afterPath="$PROJECT_DIR$/src/com/abhi/Chapter11_20/Chapter19/QueueClass/PriorityQueueClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abhi/Chapter11_20/Chapter19/SetClass/HashSetClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abhi/Chapter11_20/Chapter19/SetClass/LinkedHashSetClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/abhi/Chapter11_20/Chapter19/SetClass/TreeSetClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,13 +54,13 @@
       <recent name="com.abhi.Chapter1_10.Chapter7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LinkedListClass">
-    <configuration name="ArrayListClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.abhi.Chapter11_20.Chapter19.ListClass.ArrayListClass" />
+  <component name="RunManager" selected="Application.PriorityQueueClass">
+    <configuration name="HashSetClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abhi.Chapter11_20.Chapter19.SetClass.HashSetClass" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.abhi.Chapter11_20.Chapter19.ListClass.*" />
+          <option name="PATTERN" value="com.abhi.Chapter11_20.Chapter19.SetClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.abhi.Chapter1_10.Chapter10.ExceptionTest" />
+    <configuration name="LinkedHashSetClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abhi.Chapter11_20.Chapter19.SetClass.LinkedHashSetClass" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.abhi.Chapter1_10.Chapter10.*" />
+          <option name="PATTERN" value="com.abhi.Chapter11_20.Chapter19.SetClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.abhi.Chapter1_10.Chapter10.MyException" />
+    <configuration name="PriorityQueueClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abhi.Chapter11_20.Chapter19.QueueClass.PriorityQueueClass" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.abhi.Chapter1_10.Chapter10.*" />
+          <option name="PATTERN" value="com.abhi.Chapter11_20.Chapter19.QueueClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThrowTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.abhi.Chapter1_10.Chapter10.ThrowTest" />
+    <configuration name="TreeSetClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abhi.Chapter11_20.Chapter19.SetClass.TreeSetClass" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.abhi.Chapter1_10.Chapter10.*" />
+          <option name="PATTERN" value="com.abhi.Chapter11_20.Chapter19.SetClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PriorityQueueClass" />
+        <item itemvalue="Application.TreeSetClass" />
+        <item itemvalue="Application.LinkedHashSetClass" />
+        <item itemvalue="Application.HashSetClass" />
         <item itemvalue="Application.LinkedListClass" />
-        <item itemvalue="Application.ArrayListClass" />
-        <item itemvalue="Application.MyException" />
-        <item itemvalue="Application.ThrowTest" />
-        <item itemvalue="Application.ExceptionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673351388533</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2/2/23">
+      <created>1675343332045</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675343332045</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,6 +211,7 @@
     <MESSAGE value="7/8/22" />
     <MESSAGE value="Interface" />
     <MESSAGE value="Revision" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revision" />
+    <MESSAGE value="2/2/23" />
+    <option name="LAST_COMMIT_MESSAGE" value="2/2/23" />
   </component>
 </project>
