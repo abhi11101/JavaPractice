@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e1abc1b-653c-41ac-a65f-13a86c525b22" name="Changes" comment="2/2/23">
-      <change afterPath="$PROJECT_DIR$/src/com/abhi/Chapter11_20/Chapter19/QueueClass/PriorityQueueClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abhi/Chapter11_20/Chapter19/SetClass/HashSetClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abhi/Chapter11_20/Chapter19/SetClass/LinkedHashSetClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/abhi/Chapter11_20/Chapter19/SetClass/TreeSetClass.java" afterDir="false" />
+    <list default="true" id="4e1abc1b-653c-41ac-a65f-13a86c525b22" name="Changes" comment="3/2/23">
+      <change afterPath="$PROJECT_DIR$/src/com/abhi/Chapter11_20/Chapter19/MapClass/HashMapTemp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +51,20 @@
       <recent name="com.abhi.Chapter1_10.Chapter7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PriorityQueueClass">
+  <component name="RunManager" selected="Application.HashMapTemp">
+    <configuration name="HashMapTemp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abhi.Chapter11_20.Chapter19.MapClass.HashMapTemp" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.abhi.Chapter11_20.Chapter19.MapClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HashSetClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.abhi.Chapter11_20.Chapter19.SetClass.HashSetClass" />
       <module name="JavaPractice" />
@@ -74,19 +84,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.abhi.Chapter11_20.Chapter19.SetClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkedListClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.abhi.Chapter11_20.Chapter19.ListClass.LinkedListClass" />
-      <module name="JavaPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.abhi.Chapter11_20.Chapter19.ListClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashMapTemp" />
         <item itemvalue="Application.PriorityQueueClass" />
         <item itemvalue="Application.TreeSetClass" />
         <item itemvalue="Application.LinkedHashSetClass" />
         <item itemvalue="Application.HashSetClass" />
-        <item itemvalue="Application.LinkedListClass" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675343332045</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="3/2/23">
+      <created>1675423045351</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675423045351</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,6 +216,7 @@
     <MESSAGE value="Interface" />
     <MESSAGE value="Revision" />
     <MESSAGE value="2/2/23" />
-    <option name="LAST_COMMIT_MESSAGE" value="2/2/23" />
+    <MESSAGE value="3/2/23" />
+    <option name="LAST_COMMIT_MESSAGE" value="3/2/23" />
   </component>
 </project>
