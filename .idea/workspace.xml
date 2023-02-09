@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e1abc1b-653c-41ac-a65f-13a86c525b22" name="Changes" comment="6/2/23">
-      <change afterPath="$PROJECT_DIR$/src/com/abhi/Chapter11_20/Chapter19/MapClass/TreeMapDemo.java" afterDir="false" />
+    <list default="true" id="4e1abc1b-653c-41ac-a65f-13a86c525b22" name="Changes" comment="8/2/23">
+      <change afterPath="$PROJECT_DIR$/src/com/abhi/Chapter11_20/Chapter19/IteratorTemp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
       <recent name="com.abhi.Chapter1_10.Chapter7" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TreeMapDemo">
+  <component name="RunManager" selected="Application.IteratorTemp">
     <configuration name="HashMapTemp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.abhi.Chapter11_20.Chapter19.MapClass.HashMapTemp" />
       <module name="JavaPractice" />
@@ -65,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedHashSetClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.abhi.Chapter11_20.Chapter19.SetClass.LinkedHashSetClass" />
+    <configuration name="IteratorTemp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.abhi.Chapter11_20.Chapter19.IteratorTemp" />
       <module name="JavaPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.abhi.Chapter11_20.Chapter19.SetClass.*" />
+          <option name="PATTERN" value="com.abhi.Chapter11_20.Chapter19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IteratorTemp" />
         <item itemvalue="Application.TreeMapDemo" />
         <item itemvalue="Application.HashMapTemp" />
         <item itemvalue="Application.PriorityQueueClass" />
         <item itemvalue="Application.TreeSetClass" />
-        <item itemvalue="Application.LinkedHashSetClass" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675706336038</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="8/2/23">
+      <created>1675879593450</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675879593450</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,6 +232,7 @@
     <MESSAGE value="2/2/23" />
     <MESSAGE value="3/2/23" />
     <MESSAGE value="6/2/23" />
-    <option name="LAST_COMMIT_MESSAGE" value="6/2/23" />
+    <MESSAGE value="8/2/23" />
+    <option name="LAST_COMMIT_MESSAGE" value="8/2/23" />
   </component>
 </project>
